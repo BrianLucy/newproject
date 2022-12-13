@@ -1,2 +1,2 @@
 # newproject
-This is used to practice fethc, pull, push and merge functions on github and VS Code.
+This is used to practice fetch, pull, push and merge functions on github and VS Code.
